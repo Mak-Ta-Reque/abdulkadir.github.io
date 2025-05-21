@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 ## Md Abdul Kadir – Short Bio
 
 Md Abdul Kadir is a researcher at the German Research Center for Artificial Intelligence (DFKI), based at the Saarland Informatics Campus in Saarbrücken, Germany[^2][^3][^4]. His work centers on deep learning, explainable artificial intelligence (XAI), and interactive machine learning, with a particular focus on applications in healthcare and computer vision[^2][^4][^5].
